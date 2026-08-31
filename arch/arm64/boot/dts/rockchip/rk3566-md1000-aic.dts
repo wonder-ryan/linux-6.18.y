@@ -14,7 +14,7 @@
 #include "rk3566.dtsi"
 
 / {
-	model = "Inspur-MD1000-AIC RK3566";
+	model = "Inspur MD1000-AIC RK3566";
 	compatible = "rockchip,rk3566-md1000-aic", "rockchip,rk3566";
 
 	aliases {
