@@ -14,8 +14,8 @@
 #include "rk3566.dtsi"
 
 / {
-	model = "MD1000 RK3566";
-	compatible = "rockchip,rk3566-md1000", "rockchip,rk3566";
+	model = "Inspur-MD1000-AIC RK3566";
+	compatible = "rockchip,rk3566-md1000-aic", "rockchip,rk3566";
 
 	aliases {
 		ethernet0 = &gmac1;
